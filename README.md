@@ -7,3 +7,5 @@ Servicio para acortar Urls hecho con Java (SpringBoot) y MySQL.
 
 Documentacion.
 
+Proyecto tomado de: <a href="https://roadmap.sh/projects/url-shortening-service?fl=1" Target="_blank">Roadmap</a>
+
